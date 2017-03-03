@@ -1,0 +1,51 @@
+p {
+	color: green;
+}
+
+span {
+	color: blue;
+}
+
+p, span {
+	color: orange;
+}
+
+.klasa1 {
+	color: blue;
+}
+
+p.klasa1 {
+	color: yellow;
+}
+
+p span.klasa1 {
+	color: pink;
+}
+
+/*.klasa1.klasa2 {
+	color: black;
+}
+
+p.klasa1, span.klasa1 {
+	color: grey;
+}
+
+#id1 {
+	color: brown;
+}
+
+p#id1 {
+	color: violet;
+}
+
+.klasa1 span#id1 {
+	color: navy;
+}
+
+.klasa1.klasa2#id1 {
+	color: fuchsia;
+}
+
+#id1, #id2 {
+	color: lime;
+}*/
